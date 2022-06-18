@@ -1,0 +1,107 @@
+{
+  "_note1": "KEEP THIS FILE! Check it into a version control system (VCS) like git.",
+  "_note2": "ObjectBox manages crucial IDs for your object model. See docs for details.",
+  "_note3": "If you have VCS merge conflicts, you must resolve them according to ObjectBox docs.",
+  "entities": [
+    {
+      "id": "1:4001483510860834222",
+      "lastPropertyId": "16:1719032741233050483",
+      "name": "UserEntity",
+      "properties": [
+        {
+          "id": "1:821784822899132853",
+          "name": "id",
+          "type": 6,
+          "flags": 1
+        },
+        {
+          "id": "2:837930735663509597",
+          "name": "name",
+          "type": 9
+        },
+        {
+          "id": "3:8733161317409442804",
+          "name": "gender",
+          "type": 9
+        },
+        {
+          "id": "4:1713455111734301906",
+          "name": "email",
+          "type": 9
+        },
+        {
+          "id": "5:4291407527534471873",
+          "name": "age",
+          "type": 5
+        },
+        {
+          "id": "6:7785439710422911208",
+          "name": "birthdate",
+          "type": 9
+        },
+        {
+          "id": "7:1221061736834190853",
+          "name": "phone",
+          "type": 9
+        },
+        {
+          "id": "8:326589106521398704",
+          "name": "cell",
+          "type": 9
+        },
+        {
+          "id": "9:396747745479034053",
+          "name": "thumbnail",
+          "type": 9
+        },
+        {
+          "id": "10:3955182390378889953",
+          "name": "largePicture",
+          "type": 9
+        },
+        {
+          "id": "11:7100611104249413992",
+          "name": "street",
+          "type": 9
+        },
+        {
+          "id": "12:6041296398127322012",
+          "name": "city",
+          "type": 9
+        },
+        {
+          "id": "13:6656641495254382781",
+          "name": "state",
+          "type": 9
+        },
+        {
+          "id": "14:4617889665162579988",
+          "name": "uuid",
+          "type": 9
+        },
+        {
+          "id": "15:4888670984460910959",
+          "name": "username",
+          "type": 9
+        },
+        {
+          "id": "16:1719032741233050483",
+          "name": "password",
+          "type": 9
+        }
+      ],
+      "relations": []
+    }
+  ],
+  "lastEntityId": "1:4001483510860834222",
+  "lastIndexId": "0:0",
+  "lastRelationId": "0:0",
+  "lastSequenceId": "0:0",
+  "modelVersion": 5,
+  "modelVersionParserMinimum": 5,
+  "retiredEntityUids": [],
+  "retiredIndexUids": [],
+  "retiredPropertyUids": [],
+  "retiredRelationUids": [],
+  "version": 1
+}

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Random User Gen</string>
+
+    <string name="address">Address</string>
+    <string name="contact_cell">Phone: </string>
+    <string name="contact_email">Email: </string>
+    <string name="generic_error">Ops! Something went wrong!</string>
+</resources>
